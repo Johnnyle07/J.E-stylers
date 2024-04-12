@@ -1,4 +1,29 @@
 
+/*Nav Bar Styling*/
+.navvy{display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.8rem;
+    color: white;
+    width: 70%;
+    height: 10px;
+    top: 0;
+    left: 15%;
+    position: absolute;
+   z-index: 200;}
+ 
+    a{text-decoration: none;}
+
+
+    .linenav {background-color: transparent !important;}
+ .offcanvas-body a{color: #fff !important;}
+   
+ /*Head Styling*/
+ .JE{margin-top: 50px;}
+
+ 
+
+
 
 
 /*Footer*/
@@ -153,3 +178,5 @@ footer p{color:yellow !important}
 footer a{color:yellow !important}
 
 footer h4{color: white !important}
+
+
