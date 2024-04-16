@@ -1,4 +1,28 @@
 
+/*Scroll Bar Syling*/
+/* width */
+::-webkit-scrollbar { 
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: brown;  
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: goldenrod;  border-radius: 25px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: orange; ;
+  }
+
+
+
+
 /*Nav Bar Styling*/
 .navvy{display: flex;
     justify-content: space-between;
@@ -13,6 +37,7 @@
    z-index: 200;}
  
     a{text-decoration: none; color: white !important;}
+    footer a:hover {color: #34bfa3 !important; transition: .2s;}
 
     .active { color: goldenrod !important;}
     .nav-link:hover{color: goldenrod !important; transition: 0.2s;}
