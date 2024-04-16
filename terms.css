@@ -1,5 +1,5 @@
 body {
-    background-color: #3edab3;
+    background-color: lightgrey !important;
   }
   
   .content {
@@ -29,3 +29,5 @@ body {
     
     padding: 10px;
   }
+
+  p{color: #000 !important;}

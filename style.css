@@ -8,3 +8,17 @@ h1 {
 
   /*carousel location*/
 .cau{margin-left:460px ;}
+
+h5 {
+  font-size: 250px;
+  font-family:a;
+}
+h4 {
+  font-size: 124px;
+ color:rgb(140, 140, 212) !important;
+ font-family: a !important;
+}
+.page-3{
+font-size: 180px !important;
+color:greenyellow !important;
+}
