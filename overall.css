@@ -21,7 +21,7 @@
   }
 
 
-.log {border-radius: 360px !important; width: 120px}
+.log {border-radius: 360px !important; width: 100px; position: absolute;}
 
 /*Nav Bar Styling*/
 .navvy{display: flex;
@@ -52,6 +52,8 @@
  .JE{margin-top: 50px; font-family:f; color: goldenrod;}
 
  
+ /*Bar Styling*/
+ .bar{background-color: goldenrod; width: 800px; height: 50px; margin-top: 50px;}
 
 .socials {font-size: 35px; position: absolute; top: 0.5%; left: 0%; z-index: 2; display: flex;
 color: goldenrod; justify-content: left;}
