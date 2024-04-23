@@ -20,7 +20,7 @@
     background: orange; ;
   }
 
-
+body{background-color:black !important;}
 .log {border-radius: 360px !important; width: 100px; position: absolute; top}
 
 /*Nav Bar Styling*/
@@ -37,9 +37,11 @@
    z-index: 200;}
  
     a{text-decoration: none; color: white !important;}
+    
     footer a:hover {color: #34bfa3 !important; transition: .2s;}
 
     .active { color: goldenrod !important;}
+
     .nav-link:hover{color: goldenrod !important; transition: 0.2s;}
 
 
@@ -49,7 +51,7 @@
  .offcanvas-body a{color: #fff !important;}
    
  /*Head Styling*/
- .JE{margin-top: 50px; font-family:f; color: goldenrod;}
+ .JE{margin-top: 50px; font-family:f; color: goldenrod; }
 
  
  /*Bar Styling*/
@@ -217,3 +219,10 @@ footer h4{color: white !important}
 @media (max-width:700px){.navvy{visibility: hidden;}}
 
 body{ background-color: black;}
+
+.d-block {
+  display: block;
+  margin-left: 220px !important;
+  width: 1400px !important;
+  
+}

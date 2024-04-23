@@ -1,6 +1,6 @@
-h1 {
+.JE {
     text-align:Center;
-    font-size: 80px;
+    font-size: 20px;
     text-decoration: line-through;
 }
 
@@ -22,4 +22,11 @@ h4 {
 font-size: 180px !important;
 color:greenyellow !important;
 }
+
+.JE{margin-top: 50px; font-family:f; color: goldenrod; font-size: 100px;}
+
+.gallery_section a {background-color: brown !important;}
+.gallery_section a:hover {background-color: goldenrod !important;}
+
+.galleryimg3{}
 
