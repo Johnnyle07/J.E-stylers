@@ -5,6 +5,50 @@
  .JE{margin-top: 50px; font-family:f; color: goldenrod;}
 
  .video {margin-left: 990px; margin-top: 50px; width: 800px; height: 500px;}
+ 
+ body {
+    background-color: rgb(49, 97, 160) !important;
+ }
+ body footer {
+    background-color: rgb(255, 255, 255) !important;
+ }
+ .JE {
+    text-align:Center;
+    font-size: 20px;
+    text-decoration: line-through;
+}
+
+
+
+  /*carousel location*/
+.cau{margin-left:460px ;}
+
+h5 {
+  font-size: 250px;
+  font-family:a;
+}
+h4 {
+  font-size: 124px;
+ color:rgb(140, 140, 212) !important;
+ font-family: a !important;
+}
+.page-3{
+font-size: 180px !important;
+color:greenyellow !important;
+}
+
+.JE{margin-top: 50px; font-family:f; color: goldenrod; font-size: 100px;}
+
+.gallery_section a {background-color: brown !important;}
+.gallery_section a:hover {background-color: goldenrod !important;}
+
+.galleryimg3{}
+/*Gallery Shop Color*/
+.gallery_section{background-color: rgb(0, 0, 0) !important;}
+/*Text Color*/
+.gallery_taital,.gallery_text{color: white !important;}
+
+.price_text {color: green !important;}
 
 
 

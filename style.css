@@ -29,4 +29,12 @@ color:greenyellow !important;
 .gallery_section a:hover {background-color: goldenrod !important;}
 
 .galleryimg3{}
+/*Gallery Shop Color*/
+.gallery_section{background-color: rgb(0, 0, 0) !important;}
+/*Text Color*/
+.gallery_taital,.gallery_text{color: white !important;}
 
+.price_text {color: green !important;}
+body {
+  background-color: black !important;
+}
