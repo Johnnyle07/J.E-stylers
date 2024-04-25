@@ -10,8 +10,11 @@
 .cau{margin-left:460px ;}
 
 h5 {
-  font-size: 250px;
+  font-size: 145px !important;
   font-family:a;
+  color: rgba(255, 0, 0, 0.719) !important;
+  margin-bottom: 660px !important;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h4 {
   font-size: 124px;
@@ -37,4 +40,10 @@ color:greenyellow !important;
 .price_text {color: green !important;}
 body {
   background-color: black !important;
+}
+
+.d-block {
+  display: block;
+  margin-left: 220px !important;
+  width: 1400px !important;
 }

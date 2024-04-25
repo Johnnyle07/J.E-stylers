@@ -6,3 +6,13 @@ footer {
 }
 .gallery_section{background-color: white !important;}
 .gallery_taital,.gallery_text{color: rgb(0, 0, 0) !important;}
+
+.d-block{
+    display: block;
+    margin-left: 220px !important;
+    width: 1400px !important;
+    
+  }
+
+  
+

@@ -1,4 +1,8 @@
 
+ {background-color: blue !important;}
+
+
+
 /*Scroll Bar Syling*/
 /* width */
 ::-webkit-scrollbar { 
@@ -220,9 +224,4 @@ footer h4{color: white !important}
 
 body{ background-color: black;}
 
-.d-block {
-  display: block;
-  margin-left: 220px !important;
-  width: 1400px !important;
-  
-}
+
