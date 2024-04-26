@@ -14,5 +14,27 @@ footer {
     
   }
 
+  /*Scroll Bar Syling*/
+/* width */
+::-webkit-scrollbar { 
+    width: 10px;
+  }
   
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background:rgb(243, 220, 157);  
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: goldenrod;  border-radius: 25px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: orange; ;
+  }
+ .border {
+    border: round;
+  }
 

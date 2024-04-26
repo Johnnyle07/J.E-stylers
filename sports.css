@@ -4,5 +4,32 @@
 }
 .bbshoes {
     font-size: 350px !important;
-    color: rgb(255, 195, 116) !important;
+    color: rgb(201, 165, 119) !important;
 }
+body {
+    background-color: rgba(136, 15, 15, 0.795) !important;
+}
+
+/*Scroll Bar Syling*/
+/* width */
+::-webkit-scrollbar { 
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background:  rgba(136, 15, 15, 0.795) !important;  
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: goldenrod;  border-radius: 25px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: orange; ;
+  }
+
+    .navbar-toggler-icon{float: left;}
+  
