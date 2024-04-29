@@ -35,3 +35,11 @@
   ::-webkit-scrollbar-thumb:hover {
     background: orange; ;
   }
+
+  body footer {
+    background-color:  rgb(230, 32, 187) !important;}
+
+    body .gallery_section{background-color: white !important;}
+body .gallery_taital,body .gallery_text{color: rgb(0, 0, 0) !important;}
+
+.galleryimg4{ transform: scaleX(-1);}

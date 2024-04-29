@@ -31,5 +31,7 @@ body {
     background: orange; ;
   }
 
-    .navbar-toggler-icon{float: left;}
+  nav button {position: absolute !important; top: 0%; visibility: hidden !important;}
+
+    
   
