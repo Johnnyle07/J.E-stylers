@@ -126,7 +126,8 @@ body {
       from {filter: opacity(100%);} 
       to{filter: opacity(0%);} }
     
-      .backload {animation-name: my-animation2; animation-duration:5s; animation-direction:forwards;
-        animation-fill-mode: forwards; width: 100vw; height: 100vh; background-color:black ; position: absolute;}
+      .backload {animation-name: my-animation2; animation-duration:6s; animation-direction:forwards;
+        animation-fill-mode: forwards; width: 100vw; height: 100vh; background-color:black ; position: absolute;
+	z-index: 999;}
   
         .carousel{z-index: 1;}
