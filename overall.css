@@ -1,4 +1,5 @@
-
+/*Background Override*/
+ 
  {background-color: blue !important;}
 
 
@@ -40,18 +41,21 @@
     position: absolute;
    z-index: 200;}
  
-    a{text-decoration: none; color: white !important;}
+    a{text-decoration: none;
+      color: white !important;}
     
-    footer a:hover {color: #34bfa3 !important; transition: .2s;}
+    footer a:hover {color: #34bfa3 !important;
+                    transition: .2s;}
 
-    .active { color: goldenrod !important;}
+    .active {color: goldenrod !important;}
 
     .nav-link:hover{color: goldenrod !important; transition: 0.2s;}
 
 
-.navbar-toggler {background-color: goldenrod !important;}
+    .navbar-toggler {background-color: goldenrod !important;}
 
     .linenav {background-color: transparent !important;}
+
  .offcanvas-body a{color: #fff !important;}
    
  /*Head Styling*/
