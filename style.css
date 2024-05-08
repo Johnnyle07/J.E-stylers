@@ -127,7 +127,7 @@ body {
       to{filter: opacity(0%);} }
     
       .backload {animation-name: my-animation2; animation-duration:6s; animation-direction:forwards;
-        animation-fill-mode: forwards; width: 100vw; height: 100vh; background-color:black ; position: absolute;
+        animation-fill-mode: forwards; width: 150vw; height: 150vh; background-color:black ; position: absolute;
 	z-index: 999; pointer-events:none;}
   
         .carousel{z-index: 1;}
